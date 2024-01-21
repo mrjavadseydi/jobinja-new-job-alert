@@ -3,7 +3,7 @@ import bs4
 import collections
 collections.Callable = collections.abc.Callable
 
-from bs4 import BeautifulSoup 
+
 urls = [
     "https://jobinja.ir/jobs?&filters%5Bkeywords%5D%5B0%5D=laravel&filters%5Bkeywords%5D%5B0%5D=laravel&filters%5Bremote%5D=1&preferred_before=1705846951&sort_by=relevance_desc",
     "https://jobinja.ir/jobs?&filters%5Bkeywords%5D%5B0%5D=php&filters%5Bkeywords%5D%5B0%5D=laravel&filters%5Bremote%5D=1&preferred_before=1705846951&sort_by=relevance_desc"
