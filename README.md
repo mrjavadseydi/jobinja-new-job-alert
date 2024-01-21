@@ -1,6 +1,6 @@
 ## Setup
 
-Update the app.py file:
+Update the `jobinja.py` file:
 
 1. Set your Telegram bot token on line 11.
 2. Set your chat ID on line 12.
